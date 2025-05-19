@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Caching
+Flask-JWT-Extended
+redis
+mysqlclient
